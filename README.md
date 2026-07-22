@@ -1,3 +1,4 @@
+https://automationeda-mjiaueatdaqgdawm5j42eu.streamlit.app/
 # 📊 AutoInsight EDA
 
 **Automatic Exploratory Data Analysis** — Upload a CSV or Excel file and get instant, interactive insights.
